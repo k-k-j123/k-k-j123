@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on fullstack web development<br>I'm a student of computer science and learning Java Development <br>
+Highly accomplished Student with a stellar academic record, consistently ranking at the top in college. adept in
+Python, C and Java Language with skills in web development using Django, and a strong interest in cybersecurity.<br> A
+proactive and collaborative individual with a hunger for improvement, complemented by robust problem-solving
+abilities, logical thinking, and excellent interpersonal skills.<br>
 
 
 ## 🌐 Socials:
