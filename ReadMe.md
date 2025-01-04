@@ -1,6 +1,5 @@
 # 💫 About Me:
-Highly accomplished Student with a stellar academic record, consistently ranking at the top in college. adept in
-Python, C and Java Language with skills in web development using Django, and a strong interest in cybersecurity.<br> A
+Highly accomplished Student with a stellar academic record, consistently ranking at the top in college. adept in java, C and python with skills in web development using Springboot, and a strong interest in cybersecurity.<br> A
 proactive and collaborative individual with a hunger for improvement, complemented by robust problem-solving
 abilities, logical thinking, and excellent interpersonal skills.<br>
 
