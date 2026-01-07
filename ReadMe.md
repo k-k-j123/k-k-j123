@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushik Joshi</h1>
-<h3 align="center">Java Full Stack developer and A Cybersecurity enthusiast</h3>
+<h3 align="center">Java Full Stack developer and A Tech enthusiast</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Java, Cybersecurity**
+- 🌱 I’m currently learning **Spring Boot, Java, System design**
 
 - 📫 How to reach me **joshikaushik419@gmail.com**
 
