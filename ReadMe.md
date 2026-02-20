@@ -30,7 +30,6 @@
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </p>
 
 #### 🚀 Backend & Frameworks
@@ -71,11 +70,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=k-k-j123&show_icons=true&locale=en" />
-</p>
+### Github Stats
+[![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-k-j123)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-k-j123&show_icons=true&locale=en&layout=compact" />
-</p>
+
