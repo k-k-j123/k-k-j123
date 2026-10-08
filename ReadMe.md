@@ -57,18 +57,20 @@
 <tr>
 <td width="50%" valign="top">
 
-**🧠 [SmartStock CRM](https://github.com/k-k-j123/SmartStock_CRM)**
-CRM + inventory system combining Java, Python, React and MongoDB. A Python service predicts demand, suggests restocking and segments customers, with a React analytics dashboard on top.
-<br/>`Java` `Python` `React` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
 **🚗 [Autolog](https://github.com/k-k-j123/autolog)**
 Vehicle management system with a Spring Boot REST API, a hand-designed MySQL schema, and JWT-secured endpoints.
 <br/>`Spring Boot` `MySQL` `JWT`
 
 </td>
+
+<td width="50%" valign="top">
+
+**🧠 [SmartStock CRM](https://github.com/k-k-j123/SmartStock_CRM)**
+CRM + inventory system combining Java, Python, React and MongoDB. A Python service predicts demand, suggests restocking and segments customers, with a React analytics dashboard on top.
+<br/>`Java` `Python` `React` `MongoDB`
+
+</td>
+
 </tr>
 <tr>
 <td width="50%" valign="top">
